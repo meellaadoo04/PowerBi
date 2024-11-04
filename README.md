@@ -25,3 +25,7 @@ Respecto al thrif deberemos seleccionar estandar y la conectividad de datos "imp
 4. En nombre de ususario y contraseña deberemos poner "root"
 
 5. Ya podremos ver la tabla en Power Bi con nuestros datos cargados desde la base de datos de hive
+
+6. En la derecha en datos desplegamos la tabla jugadores_futbol donde podremos ver un gráfico con los datos de nuestra nuestra tabla.
+
+   
