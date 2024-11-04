@@ -27,5 +27,7 @@ Ahora deberemos instalar Power Bi desde la microsoft store y seguir los siguient
 5. Ya podremos ver la tabla en Power Bi con nuestros datos cargados desde la base de datos de hive
 
 6. En la derecha en datos desplegamos la tabla jugadores_futbol donde podremos ver un gráfico con los datos de nuestra nuestra tabla.
+   ![image](https://github.com/user-attachments/assets/6503c229-3dd1-43dd-9c17-bc7a9a37f787)
+
 
    
