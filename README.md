@@ -20,7 +20,7 @@ Ahora deberemos instalar Power Bi desde la microsoft store y seguir los siguient
 
 3. Ahora te pedira tu servidor donde tendras que establecer el que hayas escogido en tu contenedor de hive que en este caso es "localhost:10000" y poner el nombre de la base da datos que quieras cargar en este caso "jugadores_futbol"
 
-Respecto al thrif deberemos seleccionar estandar y la conectividad de datos "importar"
+   Respecto al thrif deberemos seleccionar estandar y la conectividad de datos "importar"
 
 4. En nombre de ususario y contraseña deberemos poner "root"
 
