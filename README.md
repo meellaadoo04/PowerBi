@@ -11,6 +11,7 @@ git clone https://github.com/meellaadoo04/Hive.git
 ```bash
 docker-compose up -d
 ```
+![image](https://github.com/user-attachments/assets/9ba0ae8e-c065-48b4-bb29-c83a061f25a2)
 
 Ahora deberemos instalar Power Bi desde la microsoft store y seguir los siguientes pasos para su configuración
 
